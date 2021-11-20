@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "allure-commandline": "2.5.0",
+    "jasmine-allure-reporter": "^1.0.2"
+  },
+  "dependencies": {
+    "cucumber": "^7.0.0-rc.0"
+  }
+}
+ 
