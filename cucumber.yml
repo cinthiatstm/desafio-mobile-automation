@@ -1,1 +1,2 @@
+json: -f json -o log/report.json -f pretty
 default: --format AllureCucumber::CucumberFormatter --out=test_report
