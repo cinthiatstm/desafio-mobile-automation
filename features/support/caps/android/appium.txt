@@ -1,7 +1,7 @@
 [caps]
 platformName = "Android"
 deviceName = "virtualDevice"
-udid = "192.168.161.102:5555"
+udid = "192.168.161.101:5555"
 app = "c:\\code\\automation-ui\\cadastro_clientes_teste.apk"
 appPackage = "br.com.dudstecnologia.cadastrodeclientes"
 appActivity = "br.com.dudstecnologia.cadastrodeclientes.MainClientes"
